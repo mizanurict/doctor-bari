@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+}
+.tel{
+    background-color: black;
+    text-align: center;
+    color: white;
+    margin: 10px 3px 10px 3px;
+    padding: 10px;
+    clear: both;
+}
+.tel:hover{
+    background-color: seagreen;
+    color: chartreuse;
+}
+.button{
+    text-align: center;
+}
+.button li{
+    list-style: none;
+    display: inline;
+    padding: 10px;
+    border: 2px solid red;
+    border-radius: 10px;
+    margin: 10px 200px 10px 200px;
+    background-color: blanchedalmond;
+}
+a{
+    text-decoration: none;
+    color: rgb(97, 18, 223);
+    font-weight: bold;
+    font-size: 30px;
+}
+.button a:hover{
+    color: black;
+    background-color: white;
+}
+.login{
+    text-align: center;
+}
+.login h1{
+    font-weight: bolder;
+    color: blue;
+    padding: 5px;
+}
+.login-button{
+    font-size: 25px;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+}
